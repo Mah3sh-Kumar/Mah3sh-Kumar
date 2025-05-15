@@ -1,25 +1,17 @@
 # 👋 Hello, I’m Mahesh Kumar
 
-![Coding Animation](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
+### About Me  
+Aspiring Computer Scientist passionate about Artificial Intelligence, Machine Learning, and scalable software solutions.
 
-### 👀 Interests  
-Artificial Intelligence | Machine Learning | Open-Source | Automation | Scalable Software Systems
+### Currently Learning  
+Advanced AI models, Full-Stack Development, and Cloud Technologies.
 
-### 🌱 Currently Learning  
-Advanced AI Models | Full-Stack Development | Cloud-Native Architectures
+### Collaboration  
+Open to collaborating on AI projects, open-source initiatives, and automation tools.
 
-### 💞️ Collaboration  
-Open to collaborating on impactful AI projects and automation tools
-
-### 📫 Reach Me  
-[LinkedIn](https://linkedin.com/in/mahesh-kumar-dev) | mk948------1@gmail.com
-
-### 😄 Pronouns  
-He/Him
-
-### ⚡ Fun Fact  
-Turning caffeine into code — and loving every bug along the way ☕💻
+### Contact  
+[LinkedIn](https://linkedin.com/in/mahesh-kumar-dev) | [Email](mk94854541@gmail.com)
 
 ---
 
-*Let’s build the future, one line of code at a time.* 🚀
+*Let’s connect and create impactful solutions together.*
