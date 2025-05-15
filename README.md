@@ -10,7 +10,7 @@ Advanced AI models, Full-Stack Development, and Cloud Technologies.
 Open to collaborating on AI projects, open-source initiatives, and automation tools.
 
 ### Contact  
-[LinkedIn](https://linkedin.com/in/mahesh-kumar-dev) | [Email](mk94854541@gmail.com)
+[LinkedIn](https://linkedin.com/in/maheshKumar-dev) | [Email](mk94854541@gmail.com)
 
 ---
 
