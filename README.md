@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-💡 I’m an **Aspiring Computer Scientist** driven by curiosity and innovation.  
+💡 I’m an **Aspiring Computer Science Student** driven by curiosity and innovation.  
 I enjoy building **intelligent systems**, crafting **scalable applications**, and turning ideas into **real-world solutions**.
 
 - 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
