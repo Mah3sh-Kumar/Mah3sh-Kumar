@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Scientist;AI+%7C+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Science+Student;AI+%7C+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Scalable+Solutions" />
 </p>
 
 ---
