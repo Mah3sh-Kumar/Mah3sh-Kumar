@@ -41,7 +41,7 @@ If it’s **impactful and challenging**, I’m in.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,github,linux,firebase,supabase,mysql,mongodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,github,linux,android,windows,firebase,supabase,mysql,mongodb&perline=7" />
 </p>
 
 ---
