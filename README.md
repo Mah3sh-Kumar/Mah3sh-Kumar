@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Mahesh Kumar</h1>
-<h3 align="center">AI-Focused Software Engineer | Full-Stack Developer | Intelligent Systems Builder</h3>
+<h3 align="center">AI-Focused Python Developer | Intelligent Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Real-World+Systems;Full-Stack+Architecture+%7C+Mobile+%7C+IoT;Scalable+Backend+%26+Intelligent+Automation;From+Idea+to+Production" />
